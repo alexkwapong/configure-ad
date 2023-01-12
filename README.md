@@ -24,10 +24,16 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Step 1: Create Two VMs
+- Step 2: Test VMs Online Connectivity
+- Step 3: Allow permissions on DC-1"s Firewall
+- Step 4: Test Communications between VMs
+- Step 5: Set up Domain
+- Step 6: Create Organizational Units (OU) in Active Directory
+- Step 7: Join Client-1 to domain
+- Step 8: Setup Remote Desktop for Non-Admin Users on Client-1
+- Step 9: Create Additional Users via Powershell ISE
+- Step 10: Test New User Accounts
 
 <h2>Deployment and Configuration Steps</h2>
 
